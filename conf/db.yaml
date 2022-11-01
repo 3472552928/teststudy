@@ -1,0 +1,25 @@
+host:
+  - ["host","http://123.56.170.43:8888"]
+  - ["username","libai"]
+  - ["password","opms123456"]
+
+
+dbip: 121.5.121.62
+port: 4416
+usr: root
+pwd : 123456
+
+#db:
+#    - ["host","121.5.121.62"]
+#    - ["port",4406]
+#    - ["usr","root"]
+#    - ["pwd","123456"]
+
+
+login:
+  - ["libai","csyz@1234",1]
+  - ["libai22222","opms123456",0]
+  - ["libai","",0]
+  - ["libai","opms12",0]
+  - ["liba33i","opms333123456",0]
+  - ["","opms123456",0]

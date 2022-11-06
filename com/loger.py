@@ -29,16 +29,11 @@ class Loger(object):
             setLev = logging.ERROR
         self.logger.setLevel(setLev)
 
-        # 创建一个handler 用于写入日志文件
+        # 自定义文件名称及存放路径
         self.log_time = time.strftime("%Y_%m_%d_")
-        # print(self.log_time)
         self.path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-        # print(self.path)
         self.log_path = os.path.join(self.path,'logs')
-        # print(self.log_path)
-        # self.log_name = self.log_path + self.log_time + "test.log"
         self.log_name = self.log_path + "\\" + "opms_" + self.log_time + ".log"
-        # print(self.log_name)
 
         # 创建一个handler 用于写入日志文件
         fh = logging.FileHandler(self.log_name,'a',encoding='utf-8')
@@ -49,7 +44,7 @@ class Loger(object):
         ch.setLevel(setLev)
 
 
-        # 定义handler的输出格式
+        # 定义handler的输出格式，可以自定义
         formatter = logging.Formatter('[%(asctime)s] %(filename)s-->%(funcName)s line: %(lineno)d [%(levelname)s]-->%(message)s')
         fh.setFormatter(formatter)
         ch.setFormatter(formatter)
@@ -73,5 +68,5 @@ if __name__ == '__main__':
     log.info(res1)
     res2 = {"code":0,"messge":"登录失败"}
     if res2['code'] == 0:
-        log.error("登录失败了")
+        log.error("登录失败")
 

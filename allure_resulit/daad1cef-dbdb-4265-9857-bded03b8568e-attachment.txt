@@ -1,2 +1,0 @@
-name的值是： 测试 aliasname的值是： 
-{"code":0,"message":"请填写项目别名"}

@@ -11,13 +11,13 @@ class GetData():
         '''提取列表数据'''
         for i in range(len(res)):
             # print(res[i][0])
-            namelist.append(res[i][0])
+            namelist.append(res[i][1])
         print(namelist)
         return res
 
 if __name__ == '__main__':
     data = GetData()
-    sql = "select DISTINCT(username) from pms_users WHERE username like \"to%\""
+    sql = "select * from pms_users limit 2"
     data.getUser(sql)
 
 

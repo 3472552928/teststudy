@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"7bb66d4035db8b2df6ea4629b16dfcbd","name":"test.home","statistic":{"failed":0,"broken":0,"skipped":0,"passed":11,"unknown":0,"total":11}},{"uid":"c85e512d679e1a6dd11f84f13ad4a1a4","name":"test.project management","statistic":{"failed":0,"broken":0,"skipped":0,"passed":7,"unknown":0,"total":7}}]}

@@ -1,1 +1,0 @@
-[32mINFO    [0m root:login.py:19 data是:{'username': 'liba33i', 'password': 'opms333123456'}，返回是:{"code":0,"message":"登录失败"}

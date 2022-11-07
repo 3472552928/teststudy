@@ -1,2 +1,0 @@
-[32mINFO    [0m root:login.py:19 data是:{'username': 'libai', 'password': 'csyz@1234'}，返回是:{"code":1,"message":"贺喜你，登录成功"}
-[32mINFO    [0m root:add.py:39 {"code":1,"id":"809451284665995264","message":"项目信息添加成功"}

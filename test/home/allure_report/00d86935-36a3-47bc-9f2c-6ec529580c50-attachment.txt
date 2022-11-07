@@ -1,0 +1,8 @@
+[2022-11-07 09:43:02,882] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'csyz@1234'}，返回是:{"code":0,"message":"请填写用户名"}
+[2022-11-07 09:43:02,882] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'csyz@1234'}，返回是:{"code":0,"message":"请填写用户名"}
+[2022-11-07 09:43:02,882] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'csyz@1234'}，返回是:{"code":0,"message":"请填写用户名"}
+[2022-11-07 09:43:02,882] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'csyz@1234'}，返回是:{"code":0,"message":"请填写用户名"}
+[2022-11-07 09:43:02,882] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'csyz@1234'}，返回是:{"code":0,"message":"请填写用户名"}
+[2022-11-07 09:43:02,882] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'csyz@1234'}，返回是:{"code":0,"message":"请填写用户名"}
+[2022-11-07 09:43:02,882] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'csyz@1234'}，返回是:{"code":0,"message":"请填写用户名"}
+[2022-11-07 09:43:02,882] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'csyz@1234'}，返回是:{"code":0,"message":"请填写用户名"}

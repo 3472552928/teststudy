@@ -1,0 +1,13 @@
+[2022-11-02 09:41:50,875] loger.py--><module> line: 73 [INFO]-->{'code': 1, 'messge': '贺喜您，登录成功'}
+[2022-11-02 09:41:50,876] loger.py--><module> line: 76 [ERROR]-->登录失败了
+[2022-11-02 09:49:21,224] loger.py--><module> line: 73 [INFO]-->{'code': 1, 'messge': '贺喜您，登录成功'}
+[2022-11-02 09:49:21,224] loger.py--><module> line: 76 [ERROR]-->登录失败了
+[2022-11-02 09:54:51,040] loger.py--><module> line: 73 [INFO]-->{'code': 1, 'messge': '贺喜您，登录成功'}
+[2022-11-02 09:55:09,095] loger.py--><module> line: 73 [INFO]-->{'code': 1, 'messge': '贺喜您，登录成功'}
+[2022-11-02 09:55:09,096] loger.py--><module> line: 76 [ERROR]-->登录失败了
+[2022-11-02 09:55:14,010] loger.py--><module> line: 73 [INFO]-->{'code': 1, 'messge': '贺喜您，登录成功'}
+[2022-11-02 09:55:14,010] loger.py--><module> line: 76 [ERROR]-->登录失败了
+[2022-11-02 09:56:49,381] loger.py--><module> line: 73 [INFO]-->{'code': 1, 'messge': '贺喜您，登录成功'}
+[2022-11-02 09:57:00,790] loger.py--><module> line: 73 [INFO]-->{'code': 1, 'messge': '贺喜您，登录成功'}
+[2022-11-02 16:06:37,854] loger.py--><module> line: 73 [INFO]-->{'code': 1, 'messge': '贺喜您，登录成功'}
+[2022-11-02 16:06:37,854] loger.py--><module> line: 76 [ERROR]-->登录失败了

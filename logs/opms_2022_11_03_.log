@@ -1,0 +1,170 @@
+[2022-11-03 16:15:18,792] login.py-->login line: 18 [INFO]-->data是:{'username': 'libai', 'password': 'csyz@1234'}，返回是:{"code":1,"message":"贺喜你，登录成功"}
+[2022-11-03 16:16:06,124] login.py-->login line: 18 [INFO]-->data是:{'username': 'libai', 'password': 'csyz@1234'}，返回是:{"code":1,"message":"贺喜你，登录成功"}
+[2022-11-03 16:17:05,203] login.py-->login line: 18 [INFO]-->data是:{'username': 'libai', 'password': 'csyz@1234'}，返回是:{"code":1,"message":"贺喜你，登录成功"}
+[2022-11-03 16:19:08,189] login.py-->login line: 18 [INFO]-->{"code":1,"message":"贺喜你，登录成功"}
+[2022-11-03 16:29:23,803] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai', 'password': 'csyz@1234'}，返回是:{"code":1,"message":"贺喜你，登录成功"}
+[2022-11-03 16:40:31,337] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai', 'password': 'csyz@1234'}，返回是:{"code":1,"message":"贺喜你，登录成功"}
+[2022-11-03 16:40:31,601] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai22222', 'password': 'opms123456'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:40:31,601] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai22222', 'password': 'opms123456'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:40:31,631] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai', 'password': ''}，返回是:{"code":0,"message":"请填写密码"}
+[2022-11-03 16:40:31,631] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai', 'password': ''}，返回是:{"code":0,"message":"请填写密码"}
+[2022-11-03 16:40:31,631] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai', 'password': ''}，返回是:{"code":0,"message":"请填写密码"}
+[2022-11-03 16:40:31,670] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai', 'password': 'opms12'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:40:31,670] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai', 'password': 'opms12'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:40:31,670] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai', 'password': 'opms12'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:40:31,670] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai', 'password': 'opms12'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:40:31,701] login.py-->login line: 19 [INFO]-->data是:{'username': 'liba33i', 'password': 'opms333123456'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:40:31,701] login.py-->login line: 19 [INFO]-->data是:{'username': 'liba33i', 'password': 'opms333123456'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:40:31,701] login.py-->login line: 19 [INFO]-->data是:{'username': 'liba33i', 'password': 'opms333123456'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:40:31,701] login.py-->login line: 19 [INFO]-->data是:{'username': 'liba33i', 'password': 'opms333123456'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:40:31,701] login.py-->login line: 19 [INFO]-->data是:{'username': 'liba33i', 'password': 'opms333123456'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:40:31,731] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'opms123456'}，返回是:{"code":0,"message":"请填写用户名"}
+[2022-11-03 16:40:31,731] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'opms123456'}，返回是:{"code":0,"message":"请填写用户名"}
+[2022-11-03 16:40:31,731] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'opms123456'}，返回是:{"code":0,"message":"请填写用户名"}
+[2022-11-03 16:40:31,731] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'opms123456'}，返回是:{"code":0,"message":"请填写用户名"}
+[2022-11-03 16:40:31,731] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'opms123456'}，返回是:{"code":0,"message":"请填写用户名"}
+[2022-11-03 16:40:31,731] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'opms123456'}，返回是:{"code":0,"message":"请填写用户名"}
+[2022-11-03 16:40:45,787] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai', 'password': 'csyz@1234'}，返回是:{"code":1,"message":"贺喜你，登录成功"}
+[2022-11-03 16:40:46,092] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai22222', 'password': 'opms123456'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:40:46,092] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai22222', 'password': 'opms123456'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:40:46,122] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai', 'password': ''}，返回是:{"code":0,"message":"请填写密码"}
+[2022-11-03 16:40:46,122] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai', 'password': ''}，返回是:{"code":0,"message":"请填写密码"}
+[2022-11-03 16:40:46,122] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai', 'password': ''}，返回是:{"code":0,"message":"请填写密码"}
+[2022-11-03 16:40:46,166] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai', 'password': 'opms12'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:40:46,166] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai', 'password': 'opms12'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:40:46,166] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai', 'password': 'opms12'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:40:46,166] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai', 'password': 'opms12'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:40:46,203] login.py-->login line: 19 [INFO]-->data是:{'username': 'liba33i', 'password': 'opms333123456'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:40:46,203] login.py-->login line: 19 [INFO]-->data是:{'username': 'liba33i', 'password': 'opms333123456'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:40:46,203] login.py-->login line: 19 [INFO]-->data是:{'username': 'liba33i', 'password': 'opms333123456'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:40:46,203] login.py-->login line: 19 [INFO]-->data是:{'username': 'liba33i', 'password': 'opms333123456'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:40:46,203] login.py-->login line: 19 [INFO]-->data是:{'username': 'liba33i', 'password': 'opms333123456'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:40:46,234] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'opms123456'}，返回是:{"code":0,"message":"请填写用户名"}
+[2022-11-03 16:40:46,234] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'opms123456'}，返回是:{"code":0,"message":"请填写用户名"}
+[2022-11-03 16:40:46,234] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'opms123456'}，返回是:{"code":0,"message":"请填写用户名"}
+[2022-11-03 16:40:46,234] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'opms123456'}，返回是:{"code":0,"message":"请填写用户名"}
+[2022-11-03 16:40:46,234] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'opms123456'}，返回是:{"code":0,"message":"请填写用户名"}
+[2022-11-03 16:40:46,234] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'opms123456'}，返回是:{"code":0,"message":"请填写用户名"}
+[2022-11-03 16:41:15,819] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai', 'password': 'csyz@1234'}，返回是:{"code":1,"message":"贺喜你，登录成功"}
+[2022-11-03 16:41:15,851] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai22222', 'password': 'opms123456'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:41:15,851] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai22222', 'password': 'opms123456'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:41:15,879] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai', 'password': ''}，返回是:{"code":0,"message":"请填写密码"}
+[2022-11-03 16:41:15,879] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai', 'password': ''}，返回是:{"code":0,"message":"请填写密码"}
+[2022-11-03 16:41:15,879] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai', 'password': ''}，返回是:{"code":0,"message":"请填写密码"}
+[2022-11-03 16:41:15,919] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai', 'password': 'opms12'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:41:15,919] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai', 'password': 'opms12'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:41:15,919] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai', 'password': 'opms12'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:41:15,919] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai', 'password': 'opms12'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:41:15,945] login.py-->login line: 19 [INFO]-->data是:{'username': 'liba33i', 'password': 'opms333123456'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:41:15,945] login.py-->login line: 19 [INFO]-->data是:{'username': 'liba33i', 'password': 'opms333123456'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:41:15,945] login.py-->login line: 19 [INFO]-->data是:{'username': 'liba33i', 'password': 'opms333123456'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:41:15,945] login.py-->login line: 19 [INFO]-->data是:{'username': 'liba33i', 'password': 'opms333123456'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:41:15,945] login.py-->login line: 19 [INFO]-->data是:{'username': 'liba33i', 'password': 'opms333123456'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-03 16:41:15,972] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'opms123456'}，返回是:{"code":0,"message":"请填写用户名"}
+[2022-11-03 16:41:15,972] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'opms123456'}，返回是:{"code":0,"message":"请填写用户名"}
+[2022-11-03 16:41:15,972] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'opms123456'}，返回是:{"code":0,"message":"请填写用户名"}
+[2022-11-03 16:41:15,972] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'opms123456'}，返回是:{"code":0,"message":"请填写用户名"}
+[2022-11-03 16:41:15,972] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'opms123456'}，返回是:{"code":0,"message":"请填写用户名"}
+[2022-11-03 16:41:15,972] login.py-->login line: 19 [INFO]-->data是:{'username': '', 'password': 'opms123456'}，返回是:{"code":0,"message":"请填写用户名"}
+[2022-11-03 16:44:12,800] add.py-->add line: 38 [INFO]--><!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>OPMS管理系统</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<meta name="author" content="lock">
+<meta name="keywords" content="OPMS,管理系统">
+<meta name="description" content="OPMS管理系统,由Lock开发;联系方式：903561702@qq.com,QQ讨论群：451420312">
+<link rel="shortcut icon" href="/static/img/favicon.ico" type="image/png">
+<link href="/static/css/style.css" rel="stylesheet">
+<link href="/static/css/style-responsive.css" rel="stylesheet">
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+var hm = document.createElement("script");
+hm.src = "//hm.baidu.com/hm.js?750463144f16fe69eb3ac11bea1c4436";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<style>
+.form-signin .help-block{color:#a94442;}
+</style>
+</head><body class="login-body">
+<div class="container">
+  <form class="form-signin" id="login-form">
+    <div class="form-signin-heading text-center">
+      <h1 class="sign-title">登录测试驿栈</h1>
+      <img src="/static/img/logo.png" alt="OPMS" style="width:120px;"/> </div>
+    <div class="login-wrap">
+      <input type="text" class="form-control" name="username" placeholder="请填写用户名" autofocus>
+      <input type="password" class="form-control" name="password" placeholder="请填写密码">
+      <p>加微信(810295842)获取用户和密码</p>
+	<button class="btn btn-lg btn-login btn-block" type="submit"> 登录</button>
+    </div>
+  </form>
+</div>
+
+<script src="/static/js/jquery.min.js"></script>
+<script src="/static/js/bootstrap.min.js"></script>
+<script src="/static/js/jquery.nicescroll.js"></script>
+<script src="/static/js/scripts.js"></script>
+<script src="/static/js/jquery.validate.js"></script>
+<script src="/static/js/opms.js"></script>
+</body>
+</html>
+
+[2022-11-03 16:46:57,320] add.py-->add line: 38 [INFO]-->{"code":1,"id":"808084378474254336","message":"项目信息添加成功"}
+[2022-11-03 16:47:08,321] add.py-->add line: 38 [INFO]--><!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>OPMS管理系统</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<meta name="author" content="lock">
+<meta name="keywords" content="OPMS,管理系统">
+<meta name="description" content="OPMS管理系统,由Lock开发;联系方式：903561702@qq.com,QQ讨论群：451420312">
+<link rel="shortcut icon" href="/static/img/favicon.ico" type="image/png">
+<link href="/static/css/style.css" rel="stylesheet">
+<link href="/static/css/style-responsive.css" rel="stylesheet">
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+var hm = document.createElement("script");
+hm.src = "//hm.baidu.com/hm.js?750463144f16fe69eb3ac11bea1c4436";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<style>
+.form-signin .help-block{color:#a94442;}
+</style>
+</head><body class="login-body">
+<div class="container">
+  <form class="form-signin" id="login-form">
+    <div class="form-signin-heading text-center">
+      <h1 class="sign-title">登录测试驿栈</h1>
+      <img src="/static/img/logo.png" alt="OPMS" style="width:120px;"/> </div>
+    <div class="login-wrap">
+      <input type="text" class="form-control" name="username" placeholder="请填写用户名" autofocus>
+      <input type="password" class="form-control" name="password" placeholder="请填写密码">
+      <p>加微信(810295842)获取用户和密码</p>
+	<button class="btn btn-lg btn-login btn-block" type="submit"> 登录</button>
+    </div>
+  </form>
+</div>
+
+<script src="/static/js/jquery.min.js"></script>
+<script src="/static/js/bootstrap.min.js"></script>
+<script src="/static/js/jquery.nicescroll.js"></script>
+<script src="/static/js/scripts.js"></script>
+<script src="/static/js/jquery.validate.js"></script>
+<script src="/static/js/opms.js"></script>
+</body>
+</html>
+
+[2022-11-03 16:49:22,157] add.py-->add line: 38 [INFO]-->{"code":1,"id":"808084985968857088","message":"项目信息添加成功"}

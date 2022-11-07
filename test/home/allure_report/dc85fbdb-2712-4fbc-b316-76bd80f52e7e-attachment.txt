@@ -1,0 +1,10 @@
+[2022-11-07 09:43:02,957] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai123', 'password': 'csyz@1234'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-07 09:43:02,957] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai123', 'password': 'csyz@1234'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-07 09:43:02,957] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai123', 'password': 'csyz@1234'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-07 09:43:02,957] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai123', 'password': 'csyz@1234'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-07 09:43:02,957] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai123', 'password': 'csyz@1234'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-07 09:43:02,957] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai123', 'password': 'csyz@1234'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-07 09:43:02,957] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai123', 'password': 'csyz@1234'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-07 09:43:02,957] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai123', 'password': 'csyz@1234'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-07 09:43:02,957] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai123', 'password': 'csyz@1234'}，返回是:{"code":0,"message":"登录失败"}
+[2022-11-07 09:43:02,957] login.py-->login line: 19 [INFO]-->data是:{'username': 'libai123', 'password': 'csyz@1234'}，返回是:{"code":0,"message":"登录失败"}

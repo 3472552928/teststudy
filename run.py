@@ -7,7 +7,7 @@ if __name__ == '__main__':
     pytest.main(["-s",
                  "--alluredir=report/allure_report","--clean-alluredir"])
     # 2、把测试报告生成html（第一种方式）  serve启动
-    # os.system(r"allure serve ./allure_raw")
+    os.system(r"allure serve report/allure_report")
     # 3、把测试报告生成html   generate生成报告    clean删除报告
-    os.system("allure generate report/allure_report -o report/report_html --clean")
+    # os.system(r"allure generate report/allure_report -o report/report_html --clean")
 

@@ -11,7 +11,7 @@ class OpmsAdd():
         self.head = head
         self.host = getHost()
         self.log = Loger().getlog()
-        # self.login_post()
+        # self.login_post(
 
         # 登录接口
 

@@ -15,7 +15,7 @@ def login_fixture():
 def clear_data_fix():
     # 前置清理
     print("开始清理数据。。。。。")
-    sql = "DELETE FROM pms_projects where aliasname = \"测试1\""
+    sql = "DELETE FROM pms_projects where aliasname = \"测试\""
     Dbconnect().delete(sql)
     print("前置数据清理完毕。。。")
     yield
